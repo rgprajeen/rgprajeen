@@ -37,8 +37,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 #### 📫 Connect with Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/PrajeenRG)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/PrajeenRG)
 [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">](https://x.com/PrajeenRG)
 [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/users/855101098742513705)
 [<img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">](https://prajeen.com)
-[<img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:contact@prajeen.com)
+[<img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:p@prajeen.com)
